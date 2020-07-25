@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CCD</title>
+</head>
+<frameset rows="100%">
+	<frameset cols="18%,*">
+		<frameset rows="50%,*">
+	<frame name="image" src="image1.html">
+	
+	<frame name="image" src="file2.html">
+	</frameset>
+<frameset rows="100%">
+ 	<frame name="info" src="scroll.html">
+ 	
+<frameset></frameset>
+</frameset>
+<body>
+hii
+</body>
+</html>
